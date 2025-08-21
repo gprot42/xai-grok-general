@@ -1,7 +1,7 @@
 * Use this in your ~/.vimrc file
 * To use, <backslash g> and then type in your Grok query which will be output into your current file.
 
-```vim
+```text
 " Function to prompt for Grok query and insert output
 function! GrokPrompt()
     let query = input('Enter Grok query: ')
