@@ -1,5 +1,5 @@
 * Use this in your ~/.vimrc file
-* To use, type in <backslash g> then type in your Grok query which will be output into your current file.
+* To use, hit \\g then type in your query which will be sent to Hrok and output into your current file.
 
 ```text
 " Function to prompt for Grok query and insert output
