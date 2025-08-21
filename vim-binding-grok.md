@@ -1,5 +1,5 @@
 * Use this in your ~/.vimrc file
-* To use, <backslash g> and then type in your Grok query which will be output into your current file.
+* To use, type in <backslash g> then type in your Grok query which will be output into your current file.
 
 ```text
 " Function to prompt for Grok query and insert output
@@ -9,7 +9,7 @@ function! GrokPrompt()
         echo "Query cancelled."
         return
     endif
-    let output = system('echo ' . shellescape(query) . ' | ~/src/grok/grok_query.sh')
+    let output = system('echo ' . shellescape(query) . ' | ~/src/grok/ask-grok.sh')
     call append(line('.'), split(output, '\n'))
 endfunction
 
