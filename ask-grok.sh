@@ -34,6 +34,7 @@ fi
 ENDPOINT="https://api.x.ai/v1/chat/completions"
 # Model to use - https://docs.x.ai/docs/models
 #MODEL="grok-3"
+#MODEL="grok-code-fast-1"
 MODEL="grok-4-0709"
 # System prompt (optional, defines the AI's behavior)
 SYSTEM_PROMPT="You are Grok, a helpful AI built by xAI."
