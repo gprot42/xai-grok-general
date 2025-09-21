@@ -11,5 +11,6 @@
 * Kilo Code: Features unlimited free access during the launch period via its VS Code extension.
 * [opencode](https://opencode.so/): Included as a launch partner with free access for a limited time.
 * Windsurf: Offers free access to Grok Code Fast 1 for a limited period.
+* Grok-1 code https://github.com/xai-org/grok-1
 
 Additionally, third-party gateways like [OpenRouter](https://openrouter.ai/) and [CometAPI](https://www.cometapi.com/) provide access to Grok Code Fast 1.
