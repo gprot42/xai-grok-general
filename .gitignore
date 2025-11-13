@@ -99,3 +99,6 @@ yarn-error.log*
 # Sample data files that might contain sensitive info
 sample_data.txt
 *_backup.*
+
+# PDF files (can be large, avoid committing)
+*.pdf
