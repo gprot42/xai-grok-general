@@ -1,0 +1,12 @@
+# X.AI Files API Demo Requirements
+# Install with: pip install -r requirements.txt
+# Or with uv: uv pip install -r requirements.txt
+
+# HTTP requests library
+requests>=2.31.0
+
+# Load environment variables from .env files
+python-dotenv>=1.0.0
+
+# PDF text extraction (optional, for PDF file support)
+PyPDF2>=3.0.0
