@@ -102,3 +102,11 @@ sample_data.txt
 
 # PDF files (can be large, avoid committing)
 *.pdf
+
+# Generated images - do not commit to repo
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+generated_images/
