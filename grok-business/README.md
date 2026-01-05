@@ -6,6 +6,8 @@ Grok for Business emphasizes productivity, data privacy, and grounded responses 
 
 [**Official Page**](https://x.ai/grok/business) | [**Documentation Hub**](https://docs.x.ai/docs/grok-business)
 
+[**Review**](https://www.testingcatalog.com/icymi-xai-launches-grok-business-and-enterprise-plans)
+
 ---
 
 ## 🚀 Core Features
